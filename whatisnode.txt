@@ -1,0 +1,3 @@
+node.js is a non-browser javascript runtime that is powered by the V8 javascript engine. Node.js has a significantly different API versus browser-javascript. For example, there is no `window` object in Node. Node also contains package management similar to that of Ruby or Python, which provides tools for interacting with the process and operating system in ways not possible in the browser.
+
+
